@@ -28,8 +28,7 @@ fishd.*
 
 # Vim
 Session.vim
-.nvimlog/
-.config/nvim/.nvimlog/
+.config/.nvimlog
 .vim/bundle/
 .vimrc_sample
 .vim/ftdetect/Dockerfile.vim
